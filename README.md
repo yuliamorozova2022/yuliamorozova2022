@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning at 42 Prague
 
 <!--
 **yuliamorozova2022/yuliamorozova2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
